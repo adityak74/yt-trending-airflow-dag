@@ -1,0 +1,1 @@
+airflow users create --username admin --password admin --firstname Aditya --lastname Karnam --role Admin --email akarnam37@gmail.com
